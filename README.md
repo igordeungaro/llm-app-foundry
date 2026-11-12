@@ -182,3 +182,12 @@ Report vulnerabilities privately through GitHub Security Advisories, following o
 ## License
 
 This repository is licensed under the [Dify Open Source License](LICENSE), based on Apache 2.0 with additional conditions.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [langgenius/dify](https://github.com/langgenius/dify), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: própria do projeto (ver o arquivo LICENSE) (mantida sem alterações).
+
+**Fonte original:** https://github.com/langgenius/dify
